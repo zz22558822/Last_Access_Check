@@ -1,0 +1,1 @@
+pyinstaller -F --add-data "C:/Users/User/AppData/Local/Programs/Python/Python310/Lib/site-packages/grapheme/data/grapheme_break_property.json;grapheme/data" -i .\LOGO.ico ".\Last_Access_Check.py" -n "Last_Access_Check" --onefile
