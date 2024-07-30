@@ -13,10 +13,10 @@
 5. 若有錯誤可以查看 LAC_Error.txt
 
 ## 檔案結構
-File/
-├── LAC_Log/
-├── Last_Access_Check.exe
-└── LAC_Error.txt
+File/  
+├── LAC_Log/  
+├── Last_Access_Check.exe  
+└── LAC_Error.txt  
 
 LAC_Log/ → 統計資訊 (檔名包含時間)  
 Last_Access_Check.exe → 主下載程序  
