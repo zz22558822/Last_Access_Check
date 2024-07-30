@@ -19,7 +19,7 @@ File/
 └── LAC_Error.txt  
 
 LAC_Log/ → 統計資訊 (檔名包含時間)  
-Last_Access_Check.exe → 主下載程序  
+Last_Access_Check.exe → 主程序  
 LAC_Error.txt → 異常資訊的紀錄  
 
 ---
